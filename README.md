@@ -6,3 +6,5 @@ tic tac toe (2 spieler lokal)
 in highscore speichern
 
 Bat getestet
+
+Mockup: https://gomockingbird.com/projects/yjjpu3r
